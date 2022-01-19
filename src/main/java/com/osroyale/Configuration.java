@@ -41,7 +41,7 @@ public class Configuration {
     final static String PREFIX = "";
 
     /** The cache file name. */
-    final static String CACHE_NAME = "RunePK.Cache";
+    final static String CACHE_NAME = "SomniumCache";
 
     /** The current displayed loading message. */
     static String LOADING_MESSAGE;

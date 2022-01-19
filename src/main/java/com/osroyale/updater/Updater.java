@@ -30,12 +30,12 @@ public class Updater {
 	/**
 	 * The cache version.
 	 */
-	private static final String CACHE_VERSION = "https://www.dropbox.com/s/6nfd34bantevv2i/cacheVersion.txt?dl=1";
+	private static final String CACHE_VERSION = "https://fremennik.com/cacheVersion.txt";
 
 	/**
 	 * The cache download url link.
 	 */
-	public static final String CACHE_LINK = "https://www.dropbox.com/s/gsxglfqelnnnae4/TempCache5945.zip?dl=1";
+	public static final String CACHE_LINK = "https://fremennik.com/SomniumCache.zip";
 
 	/**
 	 * The client download url link.
